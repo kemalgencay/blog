@@ -4,6 +4,8 @@ publish_at: "2023-01-12"
 snippet: Mustafa Kemal 1926 yılında Ankara’da Söğütözü civarında yaptığı gezilerin birinde, uzaktan bir köylünün kulübesini görür.
 ---
 
+    ![Zuzu ile Kemal](/static/zuzukemal.jpg)
+
 Mustafa Kemal 1926 yılında Ankara’da Söğütözü civarında yaptığı gezilerin birinde, uzaktan bir köylünün kulübesini görür. Kulübeye yaklaştığında köylü koşarak yanına gelir ve kulübesine davet eder. Köylünün kulübesinin önünde bir süre dinlenen Mustafa Kemal, bir ara içini çeker;
 “ Benim de böyle bir kulübem olsa, bazı geceler kulübeme gelip dinlensem. Buradaki huzur, buradaki sakinlik, hiçbir yerde bulunmaz” der.
 Tez canlı köylü:
