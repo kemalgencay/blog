@@ -4,9 +4,6 @@ publish_at: 2022-02-28
 snippet: Bazı veliler soruyorlar hocam benim çocuğu da computer'cu yapar mısınız? diye.
 ---
 
-<img src=/evdeogrenilir.jpg><br>
-<br>
-
 Bazı veliler soruyorlar: hocam benim çocuğu da computer'cu yapar mısınız? diye. Yani çocuk ana-babasının istediği olacak.
 Bu bence çok sakat bir eğilim, belki çocuk biraz büyüyüp kendini bulunca, olmak istediğinin bu olmadığını düşünerek mutsuz olacak.
 Belki sanata, belki bilime, belki spora ilgi duyacak, belki sosyal etkinliklere katılacak, ve böylece kendi varoluş nedenini bulup mutlu bir yaşam sürecek.
