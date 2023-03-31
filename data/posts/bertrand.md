@@ -4,6 +4,8 @@ publish_at: "2023-03-31"
 snippet: The important thing is not what you believe, but how you believe it.
 ---
 
+Facebook page: Bertrand Russell is in Penrhyndeudreath, United Kingdom.
+
 <img src=/bertrand.jpg><br>
 <br>
 
