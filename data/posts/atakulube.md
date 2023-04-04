@@ -4,7 +4,8 @@ publish_at: "2023-01-12"
 snippet: Mustafa Kemal 1926 yılında Ankara’da Söğütözü civarında yaptığı gezilerin birinde, uzaktan bir köylünün kulübesini görür.
 ---
 
-<img src=/kulube.jpeg><br>
+<img src=/kulube.jpeg
+alt=atanın kulubesi><br>
 <br>
 
 <p>Mustafa Kemal 1926 yılında Ankara’da Söğütözü civarında yaptığı gezilerin birinde, uzaktan bir köylünün kulübesini görür. Kulübeye yaklaştığında köylü koşarak yanına gelir ve kulübesine davet eder. Köylünün kulübesinin önünde bir süre dinlenen Mustafa Kemal, bir ara içini çeker;</p>
