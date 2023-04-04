@@ -1,6 +1,6 @@
 ---
 title: Kızlarımla
-publish_at: 2023-04-04
+publish_at: 2019-04-04
 snippet: Doğukan'ın düğününden
 ---
 
