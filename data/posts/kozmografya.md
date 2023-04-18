@@ -4,8 +4,8 @@ publish_at: 2023-02-24
 snippet: Büyük önderdeki öngörüye bakar mısınız
 ---
 
-<img src=/Kozmografya.jpeg
-alt=kozmgorafya kitabı><br>
+<img src="/Kozmografya.jpeg"
+alt="kozmgorafya kitabı"><br>
 <br>
 
 Tolga Aydoğan yazmış..
