@@ -6,7 +6,7 @@ snippet: Büyük önderdeki öngörüye bakar mısınız
 
 <img src=/kozmografya.jpeg
 alt=kozmografya kitabı><br>
-<br
+<br>
 Tolga Aydoğan yazmış..
 
 Yıl 1929..
