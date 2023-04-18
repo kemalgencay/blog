@@ -4,8 +4,9 @@ publish_at: 2023-02-24
 snippet: Büyük önderdeki öngörüye bakar mısınız
 ---
 
-![kozmografya kitabı](../../static/kozmografya.jpg)
-
+<img src=/kozmografya.jpeg
+alt=kozmografya kitabı><br>
+<br
 Tolga Aydoğan yazmış..
 
 Yıl 1929..
