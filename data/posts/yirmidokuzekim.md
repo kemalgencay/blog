@@ -11,8 +11,6 @@ alt=ata meclis onunde>
 Bizlere o inanılmaz insan Atatürk'ü bir kez daha anlatan o fotoğraf. 29 Ekim 1929…Cumhuriyet Bayramı coşkusu büyük bir şevkle kutlanmaktadır.Kemal Paşa ve beraberindekiler Meclis'ten çıktıklarında gazeteciler fotoğraf çekmek için adeta birbirlerini ezmektedir. <br>O an Ali Rıza itiş kakış içinde bir omuz darbesiyle yere yuvarlanır. Ayağa kalkıp, kadrajı ayarlayıp fotoğrafı çekene kadar Atatürk ve beraberindekiler çoktan Meclisin önünden ayrılmış ve Ankara Palas'ın önüne kadar ilerlemiştir.  
 Ali Rıza bu tarihi anı çekemediği için üzüntüyle taşın üzerine oturup hüngür hüngür ağlamaya başlar.Çok geçmeden uzaktan Kemal Paşa'nın sesini işitir. Kendine has o güzelim Rumeli şivesiyle "Hey Sarı! Söyle bakalım neden ağlıyorsun?" Birden irkilip ayağa kalkar Ali Rıza.<br>
 
-Ali Rıza bu tarihi anı çekemediği için üzüntüyle taşın üzerine oturup hüngür hüngür ağlamaya başlar.Çok geçmeden uzaktan Kemal Paşa'nın sesini işitir. Kendine has o güzelim Rumeli şivesiyle "Hey Sarı! Söyle bakalım neden ağlıyorsun?" Birden irkilip ayağa kalkar Ali Rıza.<br>
-
 Gözyaşlarını silip "Paşam" der ve yanına gider, fotoğrafı çekemediğini anlatır. Kemal Paşa gülümseyerek, 'Canını sıktığın şeye bak bre çocuk!'Atatürk büyük bir olgunlukla tüm devlet erkanına seslenerek "Arkadaşlar tekrar içeri girip yeniden çıkacağız. Sarı bizim fotoğrafımızı çekecek!"
 
 Devlet erkanı bu durumu garipser.Bir fotoğrafçı, fotoğraf çekemedi diye koskoca bakanlar, mebuslar tekrar Meclisin önüne gidip aynı pozu mu verecek?<br>  
