@@ -1,6 +1,6 @@
 ---
 title: Telgrafı Atatürk gibi kullanmak
-publis_at: 2023-07-12
+publish_at: 2023-07-12
 snippet: “Atatürk gibi düşün” uzunca süredir bir deyim olarak dilimize yerleşti; ama kimse, onun “nasıl” düşündüğünü değil, doğan sonuçların ne denli mükemmel olduğunu değişik üsluplarda anlatageldiler.
 ---
 
