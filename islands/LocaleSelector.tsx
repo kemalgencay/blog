@@ -1,5 +1,5 @@
 import { useMemo, useState } from "preact/hooks";
-const localeFmt = new Intl.DisplayNames(["tr"], { type: "language" });
+const localeFmt = new Intl.DisplayNames("tr", { type: "language" });
 const date = new Date();
 
 export default function LocaleSelector() {
