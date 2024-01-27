@@ -1,0 +1,25 @@
+{
+  "build_id": "a17c022081b61e6acae19b70867c655cd79800ce",
+  "files": {
+    "main.js": [
+      "chunk-2GUEMEWN.js",
+      "chunk-FWJUUQIY.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-2GUEMEWN.js",
+      "chunk-KMVKBWY4.js",
+      "chunk-FWJUUQIY.js"
+    ],
+    "chunk-2GUEMEWN.js": [],
+    "island-localeselector.js": [
+      "chunk-KMVKBWY4.js",
+      "chunk-FWJUUQIY.js"
+    ],
+    "chunk-KMVKBWY4.js": [
+      "chunk-FWJUUQIY.js"
+    ],
+    "chunk-FWJUUQIY.js": [],
+    "metafile.json": []
+  }
+}
