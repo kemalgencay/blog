@@ -8,3 +8,5 @@ snippet: "Datça'ya başka göndermek istediklerin varsa bir kağıda yazıp ban
 - Duş
 - Mutfak havlu asacağı
 - Mutfak araç gereçleri
+- Banyo gereçleri
+-
