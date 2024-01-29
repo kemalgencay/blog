@@ -9,4 +9,5 @@ snippet: "Datça'ya başka göndermek istediklerin varsa bir kağıda yazıp ban
 - Mutfak havlu asacağı
 - Mutfak araç gereçleri
 - Banyo gereçleri
+- Diğer
 -
