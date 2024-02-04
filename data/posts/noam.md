@@ -4,6 +4,8 @@ publish_at: "4-02-2024"
 snippet: "Noam Chomsky yapay zeka hakkında şöyle diyor:"
 ---
 
+<img src=/noam.jpg><br><br><br>
+
 Noam Chomsky yapay zeka hakkında şöyle diyor:
 "İnsan zihni, ChatGPT ve benzeri gibi, bir konuşmaya veya bilimsel bir soruya en makul cevabı elde etmek için yüzlerce terabayt verinin açgözlü bir istatistik makinesi değildir. "
 
