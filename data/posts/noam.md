@@ -1,6 +1,6 @@
 ---
 title: "Noam Chomsky"
-publish_at: "4-02-2024"
+publish_at: "2-04-2024"
 snippet: "Noam Chomsky yapay zeka hakkında şöyle diyor:"
 ---
 
