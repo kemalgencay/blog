@@ -4,6 +4,10 @@ publish_at: 2024-02-19
 snippet: Sarılmak, dünyadaki en iyileştirici eylemlerden biri!
 ---
 
+https://www.instagram.com/su.felsefesi/
+
+https://www.instagram.com/bkaramercan/
+
 Sarılmak, dünyadaki en iyileştirici eylemlerden biri!
 
 Tek bir sarılma ile… Kabul görme, emniyet, sıcaklık gibi duygular tatmin oluyor. İnsana, ‘ne kadar değerli olduğunu’ hissediyor. Sinirleri yatıştırıp, yalnızlık hissini dağıtıyor. Duygusal olarak canlanıp, keyifleniyoruz.
