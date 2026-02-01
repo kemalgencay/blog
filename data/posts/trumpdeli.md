@@ -1,7 +1,9 @@
-9
-a
-7
- ·
+---
+title: Trump deli mi?
+publish_at: 2026-02-01
+snippet: TRUMP DELİ Mİ? YOKSA 38 TRİLYON DOLARLIK BORCU SİSTEMATİK OLARAK MI ERİTİYOR?--
+---
+
 Harika bir Analiz......
  TRUMP DELİ Mİ? YOKSA 38 TRİLYON DOLARLIK BORCU SİSTEMATİK OLARAK MI ERİTİYOR?
 Herkes "Trump deli" diyor.
@@ -23,6 +25,7 @@ Trump B'ye gidiyor.
 BORÇ NASIL ERİR?
 Basit örnek.
 BUGÜN:
+
 - 36 trilyon dolar borç
 - 1 dolar = 1 ekmek
 - Gerçek borç: 36 trilyon ekmek değerinde
@@ -41,6 +44,7 @@ TARİH BUNU GÖRDÜ
 2008-2020: Fed 4 trilyon dolar bastı. Borç 10 trilyondan 28 trilyona çıktı. Ama gerçek yük artmadı. Dolar zayıfladı.
 Her krizde aynı: Zayıf dolar.
 TRUMP 24 GÜNDE NE YAPTI?
+
 1. Maduro yakalandı
 2. Küba'ya tehdit
 3. Kolombiya'ya tehdit
@@ -60,7 +64,7 @@ TRUMP 24 GÜNDE NE YAPTI?
 17. Fed'e baskı
 Kaos çıkartıyor. Dolar'ı zayıflatıyor.
 ZAMANLAMA
-2026. Tam 10 trilyon borç yenileme yılı.
+18. Tam 10 trilyon borç yenileme yılı.
 Tesadüf mü?
 TRUMP'IN EKİBİ
 Scott Bessent: Hazine Bakanı. George Soros'la çalıştı. 1992'de İngiltere Merkez Bankası'na milyarlarca dolar kazandırdı. Plaza Accord'u biliyor.
@@ -108,6 +112,7 @@ Kaos → Güven düşüyor → Dolardan kaçış → Dolar zayıflıyor.
 1985 sonucu. 2026 yöntemi.
 KİM KAZANIR KİM KAYBEDER?
 KAYBEDENLER:
+
 - Çin
 - Japonya
 - Avrupa
