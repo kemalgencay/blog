@@ -4,7 +4,7 @@ publish_at: 2026-02-01
 snippet: TRUMP DELİ Mİ? YOKSA 38 TRİLYON DOLARLIK BORCU SİSTEMATİK OLARAK MI ERİTİYOR?--
 ---
 
-Harika bir Analiz......
+Harika bir Analiz......(yazarı belli değil)
 
 
  TRUMP DELİ Mİ? YOKSA 38 TRİLYON DOLARLIK BORCU SİSTEMATİK OLARAK MI ERİTİYOR?
