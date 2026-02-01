@@ -8,7 +8,7 @@ import * as $blog_id_ from "./routes/blog/[id].tsx";
 import * as $index from "./routes/index.tsx";
 import * as $settings from "./routes/settings.tsx";
 import * as $LocaleSelector from "./islands/LocaleSelector.tsx";
-import { type Manifest } from "$fresh/server.ts";
+import type { Manifest } from "$fresh/server.ts";
 
 const manifest = {
   routes: {
